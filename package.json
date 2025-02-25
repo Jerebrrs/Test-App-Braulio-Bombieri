@@ -1,0 +1,15 @@
+{
+  "name": "braulio-test-cypress",
+  "version": "1.0.0",
+  "description": "Test de pagina : https://monitor.braulio.io/login para la empresa Bombieri",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cy:open": "cypress open"
+  },
+  "author": "Kevin Jeremias Barrios",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.0.3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "valid": {
+    "email": "usuario@dominio.com",
+    "password": "Password123!"
+  },
+  "invalid": {
+    "email": "usuario@dominio.com",
+    "password": "Incorrecta123!"
+  },
+  "empty": {
+    "email": "",
+    "password": ""
+  }
+}
+
